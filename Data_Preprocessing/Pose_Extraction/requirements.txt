@@ -1,0 +1,4 @@
+ultralytics>=8.2.0,<9
+opencv-python>=4.7,<5
+numpy>=1.22,<2.1
+tqdm>=4.64,<5
