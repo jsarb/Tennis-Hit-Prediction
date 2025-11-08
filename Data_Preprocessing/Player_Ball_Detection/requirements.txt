@@ -1,0 +1,23 @@
+# core
+numpy>=1.18.5
+scipy>=1.4.1
+pandas>=1.0.5
+
+# vision / plotting
+opencv-python>=4.2.0.34
+Pillow>=7.1.2
+matplotlib>=3.2.2
+
+# deep learning (TrackNet)
+tensorflow>=2.3.0,<2.6.0
+keras>=2.4.3,<2.5.0
+h5py>=2.10.0
+pydot>=1.4.2
+graphviz>=0.14
+
+# multi-object tracking (SORT needs this)
+filterpy>=1.4.5
+
+# quality-of-life
+tqdm>=4.48.0
+imutils
